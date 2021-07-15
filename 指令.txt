@@ -1,0 +1,8 @@
+建立資料庫/使用者->要給權限
+再來clone  git網址
+進到終端機composer install
+修改檔名.env.example為.env -> 順便修改資料庫欄位
+進到終端機php artisan key:generate
+進到終端機php artisan migrate
+
+再來到網路上測試
